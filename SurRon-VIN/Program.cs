@@ -1,4 +1,9 @@
+﻿using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.DependencyInjection;
+using SurRon_VIN.Data;
 var builder = WebApplication.CreateBuilder(args);
+builder.Services.AddDbContext<SurRon_VINContext>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("SurRon_VINContext") ?? throw new InvalidOperationException("Connection string 'SurRon_VINContext' not found.")));
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
