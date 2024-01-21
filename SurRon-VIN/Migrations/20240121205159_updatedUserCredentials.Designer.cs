@@ -2,6 +2,7 @@
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using SurRon_VIN.Data;
 
@@ -10,9 +11,11 @@ using SurRon_VIN.Data;
 namespace SurRon_VIN.Migrations
 {
     [DbContext(typeof(SurRon_VINContext))]
-    partial class SurRon_VINContextModelSnapshot : ModelSnapshot
+    [Migration("20240121205159_updatedUserCredentials")]
+    partial class updatedUserCredentials
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
