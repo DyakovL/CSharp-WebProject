@@ -6,7 +6,6 @@
 
 <h1>Login</h1>
 
-form 
 <p>
     <a asp-action="Create">Create New</a>
 </p>
@@ -19,6 +18,18 @@ form
             <th>
                 @Html.DisplayNameFor(model => model.Password)
             </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Username)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.FirstName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.LastName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PhoneNumber)
+            </th>
             <th></th>
         </tr>
     </thead>
@@ -30,6 +41,18 @@ form
             </td>
             <td>
                 @Html.DisplayFor(modelItem => item.Password)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Username)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.FirstName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.LastName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PhoneNumber)
             </td>
             <td>
                 <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
