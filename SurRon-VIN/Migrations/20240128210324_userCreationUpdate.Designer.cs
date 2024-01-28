@@ -11,8 +11,8 @@ using SurRon_VIN.Data;
 namespace SurRon_VIN.Migrations
 {
     [DbContext(typeof(SurRon_VINContext))]
-    [Migration("20240120223244_UsersCreation_01")]
-    partial class UsersCreation_01
+    [Migration("20240128210324_userCreationUpdate")]
+    partial class userCreationUpdate
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -36,10 +36,29 @@ namespace SurRon_VIN.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
+                    b.Property<string>("FirstName")
+                        .IsRequired()
+                        .HasMaxLength(72)
+                        .HasColumnType("nvarchar(72)");
+
+                    b.Property<string>("LastName")
+                        .IsRequired()
+                        .HasMaxLength(72)
+                        .HasColumnType("nvarchar(72)");
+
                     b.Property<string>("Password")
                         .IsRequired()
                         .HasMaxLength(12)
                         .HasColumnType("nvarchar(12)");
+
+                    b.Property<string>("PhoneNumber")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Username")
+                        .IsRequired()
+                        .HasMaxLength(72)
+                        .HasColumnType("nvarchar(72)");
 
                     b.HasKey("Id");
 

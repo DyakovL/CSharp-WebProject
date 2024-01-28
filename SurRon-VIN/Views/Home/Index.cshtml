@@ -2,7 +2,34 @@
     ViewData["Title"] = "Home Page";
 }
 
+<header>
+    <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+        <div class="container-fluid">
+            <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index"><h1>SurRon</h1></a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                    aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                <header>
+                    <input type="button" id="btnpopu" value="Open Modeless popup" onclick="ShowPopup();" />
+                    <script type="text/javascript">
+                        ShowPopup = function () {
+                            window.open('/Home/OpenPopup', "PopupWindow", 'width=400px,height=400px,top=150,left=250');
+                        }
+                    </script>
+                </header>
+            </div>
+    
+        </div>
+    </nav>
+</header>
+
+
+
+
 <div class="text-center">
     <h1 class="display-4"><u>Welcome To SurRon</u></h1>
-
+    
+    
 </div>

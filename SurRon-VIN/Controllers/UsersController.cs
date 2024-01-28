@@ -54,7 +54,7 @@ namespace SurRon_VIN.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("Id,Email,Password")] Users users)
+        public async Task<IActionResult> Create([Bind("Id,Email,Password,Username,FirstName,LastName,PhoneNumber")] Users users)
         {
             if (ModelState.IsValid)
             {
@@ -86,7 +86,7 @@ namespace SurRon_VIN.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, [Bind("Id,Email,Password")] Users users)
+        public async Task<IActionResult> Edit(int id, [Bind("Id,Email,Password,Username,FirstName,LastName,PhoneNumber")] Users users)
         {
             if (id != users.Id)
             {

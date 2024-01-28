@@ -5,7 +5,7 @@
 namespace SurRon_VIN.Migrations
 {
     /// <inheritdoc />
-    public partial class UsersCreation_01 : Migration
+    public partial class userCreationUpdate : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
@@ -17,6 +17,10 @@ namespace SurRon_VIN.Migrations
                     Id = table.Column<int>(type: "int", nullable: false)
                         .Annotation("SqlServer:Identity", "1, 1"),
                     Email = table.Column<string>(type: "nvarchar(max)", nullable: false),
+                    Username = table.Column<string>(type: "nvarchar(72)", maxLength: 72, nullable: false),
+                    FirstName = table.Column<string>(type: "nvarchar(72)", maxLength: 72, nullable: false),
+                    LastName = table.Column<string>(type: "nvarchar(72)", maxLength: 72, nullable: false),
+                    PhoneNumber = table.Column<string>(type: "nvarchar(max)", nullable: false),
                     Password = table.Column<string>(type: "nvarchar(12)", maxLength: 12, nullable: false)
                 },
                 constraints: table =>
