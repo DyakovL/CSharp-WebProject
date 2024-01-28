@@ -13,16 +13,21 @@ namespace SurRon_VIN.Models
         public string? Email { get; set; }
 
         [Required]
+        [MinLength(2)]
+        [MaxLength(72)]
         public string? Username { get; set; }
 
         [Required]
+        [MinLength(2)]
+        [MaxLength(72)]
         public string? FirstName { get; set; }
 
         [Required]
+        [MinLength(2)]
+        [MaxLength(72)]
         public string? LastName { get; set; }
 
         [Required]
-        [Phone]
         public string? PhoneNumber { get; set; }
 
         [Required]

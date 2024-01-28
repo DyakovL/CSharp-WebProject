@@ -35,11 +35,13 @@ namespace SurRon_VIN.Migrations
 
                     b.Property<string>("FirstName")
                         .IsRequired()
-                        .HasColumnType("nvarchar(max)");
+                        .HasMaxLength(72)
+                        .HasColumnType("nvarchar(72)");
 
                     b.Property<string>("LastName")
                         .IsRequired()
-                        .HasColumnType("nvarchar(max)");
+                        .HasMaxLength(72)
+                        .HasColumnType("nvarchar(72)");
 
                     b.Property<string>("Password")
                         .IsRequired()
@@ -52,7 +54,8 @@ namespace SurRon_VIN.Migrations
 
                     b.Property<string>("Username")
                         .IsRequired()
-                        .HasColumnType("nvarchar(max)");
+                        .HasMaxLength(72)
+                        .HasColumnType("nvarchar(72)");
 
                     b.HasKey("Id");
 
