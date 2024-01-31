@@ -260,3 +260,7 @@ D:\C# WEB\CSharp-WebProject\SurRon-VIN\bin\Debug\net8.0\runtimes\win\lib\net7.0\
 D:\C# WEB\CSharp-WebProject\SurRon-VIN\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
 D:\C# WEB\CSharp-WebProject\SurRon-VIN\obj\Debug\net8.0\SurRon-VIN.csproj.AssemblyReference.cache
 D:\C# WEB\CSharp-WebProject\SurRon-VIN\obj\Debug\net8.0\SurRon-VIN.csproj.CopyComplete
+D:\C# WEB\CSharp-WebProject\SurRon-VIN\bin\Debug\net8.0\SurRon-VIN.Core.dll
+D:\C# WEB\CSharp-WebProject\SurRon-VIN\bin\Debug\net8.0\SurRon-VIN.Infrastructure.dll
+D:\C# WEB\CSharp-WebProject\SurRon-VIN\bin\Debug\net8.0\SurRon-VIN.Core.pdb
+D:\C# WEB\CSharp-WebProject\SurRon-VIN\bin\Debug\net8.0\SurRon-VIN.Infrastructure.pdb

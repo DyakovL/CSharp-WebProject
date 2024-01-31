@@ -1,0 +1,15 @@
+D:\C# WEB\CSharp-WebProject\SurRon-VIN.Infrastructure\bin\Debug\net8.0\SurRon-VIN.Infrastructure.deps.json
+D:\C# WEB\CSharp-WebProject\SurRon-VIN.Infrastructure\bin\Debug\net8.0\SurRon-VIN.Infrastructure.runtimeconfig.json
+D:\C# WEB\CSharp-WebProject\SurRon-VIN.Infrastructure\bin\Debug\net8.0\SurRon-VIN.Infrastructure.dll
+D:\C# WEB\CSharp-WebProject\SurRon-VIN.Infrastructure\bin\Debug\net8.0\SurRon-VIN.Infrastructure.pdb
+D:\C# WEB\CSharp-WebProject\SurRon-VIN.Infrastructure\obj\Debug\net8.0\SurRon-VIN.Infrastructure.csproj.AssemblyReference.cache
+D:\C# WEB\CSharp-WebProject\SurRon-VIN.Infrastructure\obj\Debug\net8.0\SurRon-VIN.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# WEB\CSharp-WebProject\SurRon-VIN.Infrastructure\obj\Debug\net8.0\SurRon-VIN.Infrastructure.AssemblyInfoInputs.cache
+D:\C# WEB\CSharp-WebProject\SurRon-VIN.Infrastructure\obj\Debug\net8.0\SurRon-VIN.Infrastructure.AssemblyInfo.cs
+D:\C# WEB\CSharp-WebProject\SurRon-VIN.Infrastructure\obj\Debug\net8.0\SurRon-VIN.Infrastructure.csproj.CoreCompileInputs.cache
+D:\C# WEB\CSharp-WebProject\SurRon-VIN.Infrastructure\obj\Debug\net8.0\SurRon-VIN.Infrastructure.sourcelink.json
+D:\C# WEB\CSharp-WebProject\SurRon-VIN.Infrastructure\obj\Debug\net8.0\SurRon-VIN.Infrastructure.dll
+D:\C# WEB\CSharp-WebProject\SurRon-VIN.Infrastructure\obj\Debug\net8.0\refint\SurRon-VIN.Infrastructure.dll
+D:\C# WEB\CSharp-WebProject\SurRon-VIN.Infrastructure\obj\Debug\net8.0\SurRon-VIN.Infrastructure.pdb
+D:\C# WEB\CSharp-WebProject\SurRon-VIN.Infrastructure\obj\Debug\net8.0\SurRon-VIN.Infrastructure.genruntimeconfig.cache
+D:\C# WEB\CSharp-WebProject\SurRon-VIN.Infrastructure\obj\Debug\net8.0\ref\SurRon-VIN.Infrastructure.dll

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SurRon-VIN")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+acd70a6dbb3c2ba387492027804611328ab658d8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3a40b5cb2df88f7b7fd943f5dfd7531d7f364c95")]
 [assembly: System.Reflection.AssemblyProductAttribute("SurRon-VIN")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SurRon-VIN")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,16 @@
+D:\C# WEB\CSharp-WebProject\SurRon-VIN.Core\bin\Debug\net8.0\SurRon-VIN.Core.deps.json
+D:\C# WEB\CSharp-WebProject\SurRon-VIN.Core\bin\Debug\net8.0\SurRon-VIN.Core.dll
+D:\C# WEB\CSharp-WebProject\SurRon-VIN.Core\bin\Debug\net8.0\SurRon-VIN.Core.pdb
+D:\C# WEB\CSharp-WebProject\SurRon-VIN.Core\bin\Debug\net8.0\SurRon-VIN.Infrastructure.dll
+D:\C# WEB\CSharp-WebProject\SurRon-VIN.Core\bin\Debug\net8.0\SurRon-VIN.Infrastructure.pdb
+D:\C# WEB\CSharp-WebProject\SurRon-VIN.Core\obj\Debug\net8.0\SurRon-VIN.Core.csproj.AssemblyReference.cache
+D:\C# WEB\CSharp-WebProject\SurRon-VIN.Core\obj\Debug\net8.0\SurRon-VIN.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# WEB\CSharp-WebProject\SurRon-VIN.Core\obj\Debug\net8.0\SurRon-VIN.Core.AssemblyInfoInputs.cache
+D:\C# WEB\CSharp-WebProject\SurRon-VIN.Core\obj\Debug\net8.0\SurRon-VIN.Core.AssemblyInfo.cs
+D:\C# WEB\CSharp-WebProject\SurRon-VIN.Core\obj\Debug\net8.0\SurRon-VIN.Core.csproj.CoreCompileInputs.cache
+D:\C# WEB\CSharp-WebProject\SurRon-VIN.Core\obj\Debug\net8.0\SurRon-VIN.Core.sourcelink.json
+D:\C# WEB\CSharp-WebProject\SurRon-VIN.Core\obj\Debug\net8.0\SurRon-VIN.Core.csproj.CopyComplete
+D:\C# WEB\CSharp-WebProject\SurRon-VIN.Core\obj\Debug\net8.0\SurRon-VIN.Core.dll
+D:\C# WEB\CSharp-WebProject\SurRon-VIN.Core\obj\Debug\net8.0\refint\SurRon-VIN.Core.dll
+D:\C# WEB\CSharp-WebProject\SurRon-VIN.Core\obj\Debug\net8.0\SurRon-VIN.Core.pdb
+D:\C# WEB\CSharp-WebProject\SurRon-VIN.Core\obj\Debug\net8.0\ref\SurRon-VIN.Core.dll
