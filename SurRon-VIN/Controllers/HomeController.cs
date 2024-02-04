@@ -28,11 +28,6 @@ namespace SurRon_VIN.Controllers
         {
             return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
         }
-
-        public string OpenModelPopup()
-        {
-            //can send some data also.  
-            return "<h1>This is Modal Popup Window</h1>";
-        }
+        
     }
 }

@@ -49,3 +49,7 @@ footer {
     white-space: nowrap;
     line-height: 60px;
 }
+
+.form-group {
+    padding-top: 1.5rem;
+}

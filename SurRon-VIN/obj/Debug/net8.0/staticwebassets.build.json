@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "cKCV7RgPXpQcjDjVpdBUSXGPrBDa1b+p2RuEfryT+bI=",
+  "Hash": "DdFwrj7jcL/MDp/d60/I2Sz/sFMK4LgZh9iO/AdbDtc=",
   "Source": "SurRon-VIN",
   "BasePath": "_content/SurRon-VIN",
   "Mode": "Default",
@@ -1231,6 +1231,44 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Identity": "D:\\C# WEB\\CSharp-WebProject\\SurRon-VIN\\wwwroot\\Media\\Videos\\PromoVid_SemiOfficial.mp4",
+      "SourceId": "SurRon-VIN",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\C# WEB\\CSharp-WebProject\\SurRon-VIN\\wwwroot\\",
+      "BasePath": "_content/SurRon-VIN",
+      "RelativePath": "Media/Videos/PromoVid_SemiOfficial.mp4",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Media\\Videos\\PromoVid_SemiOfficial.mp4"
+    },
+    {
+      "Identity": "D:\\C# WEB\\CSharp-WebProject\\SurRon-VIN\\wwwroot\\Media\\Videos\\promoVid_Tryout.mp4",
+      "SourceId": "SurRon-VIN",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\C# WEB\\CSharp-WebProject\\SurRon-VIN\\wwwroot\\",
+      "BasePath": "_content/SurRon-VIN",
+      "RelativePath": "Media/Videos/promoVid_Tryout.mp4",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Media\\Videos\\promoVid_Tryout.mp4"
     }
   ]
 }

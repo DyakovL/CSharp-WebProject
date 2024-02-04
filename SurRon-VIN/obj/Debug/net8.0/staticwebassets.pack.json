@@ -5,6 +5,14 @@
       "PackagePath": "staticwebassets\\SurRon-VIN.bundle.scp.css"
     },
     {
+      "Id": "D:\\C# WEB\\CSharp-WebProject\\SurRon-VIN\\wwwroot\\Media\\Videos\\PromoVid_SemiOfficial.mp4",
+      "PackagePath": "staticwebassets\\Media\\Videos\\PromoVid_SemiOfficial.mp4"
+    },
+    {
+      "Id": "D:\\C# WEB\\CSharp-WebProject\\SurRon-VIN\\wwwroot\\Media\\Videos\\promoVid_Tryout.mp4",
+      "PackagePath": "staticwebassets\\Media\\Videos\\promoVid_Tryout.mp4"
+    },
+    {
       "Id": "D:\\C# WEB\\CSharp-WebProject\\SurRon-VIN\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
